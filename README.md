@@ -24,7 +24,8 @@ pip install pynput
 1. Clone the repository:
 
 sh
-git clone https://github.com/your-username/Keylogger-With-Idle-Monitor.git
+git clone https://github.com/your-username/Python-Keylogger-IdleTracker
+.git
 cd Keylogger-With-Idle-Monitor
 
 
