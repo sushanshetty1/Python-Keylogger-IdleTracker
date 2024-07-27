@@ -19,9 +19,9 @@ Welcome to the *Keylogger with Idle Time Monitoring* project! This Python script
 
 You can install the pynput library using pip:
 
-bash
+```bash
 pip install pynput
-
+```
 
 ---
 
@@ -29,16 +29,16 @@ pip install pynput
 
 1. *Clone the repository*:
 
-    bash
+    ```bash
     git clone https://github.com/sushanshetty1/Python-Keylogger-IdleTracker.git
     cd Python-Keylogger-IdleTracker
     
 
 2. *Run the script*:
 
-    bash
-    python keylogger.py
-    
+   ```bash
+   python keylogger.py
+    ```
 
     The key logs will be saved in a file named keylogger.txt.
 
